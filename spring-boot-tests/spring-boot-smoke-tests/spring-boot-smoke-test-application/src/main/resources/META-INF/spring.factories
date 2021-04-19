@@ -1,0 +1,11 @@
+# BootstrapRegistryInitializer
+org.springframework.boot.BootstrapRegistryInitializer=\
+  org.springframework.boot.tests.application.config.MyBootstrapRegistryInitializer
+
+# ApplicationContextInitializer
+org.springframework.context.ApplicationContextInitializer=\
+  org.springframework.boot.tests.application.config.MyApplicationContextInitializer
+
+# ApplicationListener
+org.springframework.context.ApplicationListener=\
+  org.springframework.boot.tests.application.config.MyApplicationListener
